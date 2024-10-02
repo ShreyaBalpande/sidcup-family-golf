@@ -1,4 +1,5 @@
 Sidcup Family Golf - Website Clone
+
 This is a clone of the Sidcup Family Golf website, created using HTML, CSS, and JavaScript. The project aims to replicate the design and functionality of the original website, showcasing a family-friendly golf course. This clone is built to practice web development skills and demonstrate proficiency in frontend technologies.
 
 Features :-
