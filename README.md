@@ -5,7 +5,6 @@ This is a clone of the Sidcup Family Golf website, created using HTML, CSS, and 
 Features :-
 
 Navigation bar with smooth scrolling
-
 Homepage with information about the family golf course
 
 Interactive gallery of the golf course facilities
